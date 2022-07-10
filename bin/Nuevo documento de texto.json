@@ -7038,6 +7038,14 @@
     "date": "2022-07-10 3:45:57",
     "slug": "dragon-ball-rage-auto-zenkai-auto-deffense-etc",
     "featured_image": { "thumbnail": "https:\/\/github.com\/TheREBLEX\/GameHub-JSON\/raw\/main\/Dragon%20ball%20rage.png" }
+  },
+  {
+    "id": 12121215,
+    "title": "T-Titans Battlegrounds | Infinte ammo, HitBox, etc",
+    "excerpt": "loadstring(game:HttpGet(\"https:\/\/pastebin.com\/raw\/RA2Z4x75\"))()",
+    "date": "2022-07-10 17:40:57",
+    "slug": "T-Titans-Battlegrounds-infinite-ammo",
+    "featured_image": { "thumbnail": "https:\/\/github.com\/TheREBLEX\/GameHub-JSON\/raw\/main\/Dragon%20ball%20rage.png" }
   }
 
 ]
