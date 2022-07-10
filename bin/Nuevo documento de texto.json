@@ -7034,12 +7034,10 @@
   {
     "id": 12121214,
     "title": "Dragon ball rage | Auto Zenkai, Auto Deffense Auto Energy, etc",
-    "excerpt": "loadstring(game:HttpGet(\"https:\/\/raw.githubusercontent.com\/rubicmaster\/my_scripts\/main\/Dragon_ball_rage\",
-    "))()\",",
-    : null,
-    "date": "2022-07-10 2:55:57",
+    "excerpt": "loadstring(game:HttpGet(\"https:\/\/raw.githubusercontent.com\/rubicmaster\/my_scripts\/main\/Dragon_ball_rage\"))()",
+    "date": "2022-07-10 3:45:57",
     "slug": "dragon-ball-rage-auto-zenkai-auto-deffense-etc",
-    "featured_image": { "thumbnail": "https:\/\/github.com\/TheREBLEX\/GameHub-JSON/raw\/main\/Dragon%20ball%20rage.png" }
+    "featured_image": { "thumbnail": "https:\/\/github.com\/TheREBLEX\/GameHub-JSON\/raw\/main\/Dragon%20ball%20rage.png" }
   }
 
 ]
