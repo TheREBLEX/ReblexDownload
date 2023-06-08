@@ -1,0 +1,15 @@
+{
+ "test": 
+ {
+ "DownloadFiles":
+ {
+     "archivos":[
+         
+         {
+             "bin": "https://github.com/TheREBLEX/ReblexDownload/raw/main/bin.zip",
+             "Scripts": "https://github.com/TheREBLEX/download/raw/main/Scripts.zip"
+         }
+         ]
+  }
+ }
+}
